@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sale!</title>
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="lamp-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="lamp-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="lamp-48x48.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="manifest" href="site.webmanifest">
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.8/dist/brite/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Ofi7E7ZOYTr4CxupdpiGUzzXde5ISlET4zbL25ujM4xQDsQmnLHb5H5d+Helx0qk"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row row-cols-1 row-cols-md-3 g-2 mt-2">
+        {% for item in items %}
+          <div class="col">
+            <div class="card">
+              <img src="photos/{{ item['slug'] }}.webp" class="card-img-top">
+              <div class="card-body">
+                <h5 class="card-title">{{ item['name'] }}</h5>
+                {% if item['desc'] %}
+                  <p class="card-text">{{ item['desc'] }}</p>
+                {% endif %}
+                <p class="card-text fs-4">
+                  <b>price:</b>
+                  {% if not item['price'] and item['price'] != 0 %}
+                    negotiable
+                  {% else %}
+                    €{{ item['price'] }}
+                  {% endif %}
+                  {% if item['retail'] %}
+                    <span class="text-muted fs-6">
+                      (retail price: €{{ item['retail'] }})
+                    </span>
+                  {% endif %}
+                </p>
+              </div>
+            </div>
+          </div>
+        {% endfor%}
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,2 +1,5 @@
 /raw-photos/
 /.task/
+*_cache/
+/.venv/
+/public/

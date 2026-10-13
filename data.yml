@@ -1,0 +1,300 @@
+arduino:
+  name: arduino
+  desc: null
+  price: null
+  retail: null
+art-of-war:
+  name: The Art of War (RU)
+  desc: null
+  price: null
+  retail: null
+belt-holer:
+  name: belt holer
+  desc: null
+  price: null
+  retail: null
+bike-light:
+  name: bike light
+  desc: null
+  price: null
+  retail: null
+bouncy-balls:
+  name: bouncy balls
+  desc: null
+  price: null
+  retail: null
+box-for-cards:
+  name: box for cards
+  desc: null
+  price: null
+  retail: null
+button:
+  name: button
+  desc: null
+  price: null
+  retail: null
+card-protectors:
+  name: card protectors
+  desc: null
+  price: null
+  retail: null
+clapper:
+  name: clapper
+  desc: null
+  price: null
+  retail: null
+corgi-book:
+  name: corgi book
+  desc: null
+  price: null
+  retail: null
+corner-rounder:
+  name: corner rounder
+  desc: null
+  price: null
+  retail: null
+display:
+  name: display
+  desc: null
+  price: null
+  retail: null
+dixit:
+  name: dixit
+  desc: null
+  price: null
+  retail: null
+drone:
+  name: drone
+  desc: null
+  price: null
+  retail: null
+dutch-book:
+  name: dutch book
+  desc: null
+  price: null
+  retail: null
+earrings-kit:
+  name: earrings kit
+  desc: null
+  price: null
+  retail: null
+flask:
+  name: flask
+  desc: null
+  price: null
+  retail: null
+game-consoles:
+  name: game consoles
+  desc: null
+  price: null
+  retail: null
+game-tokens:
+  name: game tokens
+  desc: null
+  price: null
+  retail: null
+glasses:
+  name: glasses
+  desc: null
+  price: null
+  retail: null
+hammer:
+  name: hammer
+  desc: null
+  price: null
+  retail: null
+harmonica:
+  name: harmonica
+  desc: null
+  price: null
+  retail: null
+hena:
+  name: hena
+  desc: null
+  price: null
+  retail: null
+incenses:
+  name: incenses
+  desc: null
+  price: null
+  retail: null
+keyboard:
+  name: keyboard
+  desc: null
+  price: null
+  retail: null
+laptop:
+  name: laptop
+  desc: null
+  price: null
+  retail: null
+laser-cutter:
+  name: laser cutter
+  desc: null
+  price: null
+  retail: null
+leds:
+  name: leds
+  desc: null
+  price: null
+  retail: null
+lock:
+  name: lock
+  desc: null
+  price: null
+  retail: null
+logitech-ble-keyboard:
+  name: logitech ble keyboard
+  desc: null
+  price: null
+  retail: null
+logitech-keyboard:
+  name: Keyboard Logitech MX Keys
+  desc: null
+  price: 80
+  retail: 100
+logitech-mouse:
+  name: logitech mouse
+  desc: null
+  price: null
+  retail: null
+longboard:
+  name: longboard
+  desc: null
+  price: null
+  retail: null
+micro-usb-wires:
+  name: micro usb wires
+  desc: null
+  price: null
+  retail: null
+mic:
+  name: mic
+  desc: null
+  price: null
+  retail: null
+mouse:
+  name: mouse
+  desc: null
+  price: null
+  retail: null
+multikit:
+  name: multikit
+  desc: null
+  price: null
+  retail: null
+multimeter:
+  name: multimeter
+  desc: null
+  price: null
+  retail: null
+orange-pi:
+  name: orange pi
+  desc: null
+  price: null
+  retail: null
+otamatone:
+  name: otamatone
+  desc: null
+  price: null
+  retail: null
+pens:
+  name: pens
+  desc: null
+  price: null
+  retail: null
+pin-parts:
+  name: pin parts
+  desc: null
+  price: null
+  retail: null
+pocket-picks:
+  name: pocket picks
+  desc: null
+  price: null
+  retail: null
+pocket-saw:
+  name: pocket saw
+  desc: null
+  price: null
+  retail: null
+power-bank:
+  name: power bank
+  desc: null
+  price: null
+  retail: null
+power-switch:
+  name: power switch
+  desc: null
+  price: null
+  retail: null
+practice-locks:
+  name: practice locks
+  desc: null
+  price: null
+  retail: null
+practice-lock:
+  name: practice lock
+  desc: null
+  price: null
+  retail: null
+puzzle:
+  name: puzzle
+  desc: null
+  price: null
+  retail: null
+resistors:
+  name: resistors
+  desc: null
+  price: null
+  retail: null
+rotary-pick:
+  name: rotary pick
+  desc: null
+  price: null
+  retail: null
+rpi0:
+  name: rpi0
+  desc: null
+  price: null
+  retail: null
+soldering-kit:
+  name: soldering kit
+  desc: null
+  price: null
+  retail: null
+sound-card:
+  name: sound card
+  desc: null
+  price: null
+  retail: null
+tarot:
+  name: tarot
+  desc: null
+  price: null
+  retail: null
+tent:
+  name: tent
+  desc: null
+  price: null
+  retail: null
+toaster:
+  name: toaster
+  desc: null
+  price: null
+  retail: null
+watches:
+  name: watches
+  desc: null
+  price: null
+  retail: null
+webcam:
+  name: webcam
+  desc: null
+  price: null
+  retail: null
+wifi-dongle:
+  name: wifi dongle
+  desc: null
+  price: null
+  retail: null
