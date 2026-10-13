@@ -1,5 +1,5 @@
 arduino:
-  name: arduino
+  name: Arduino RP2040
   desc: null
   price: null
   retail: null
@@ -64,10 +64,13 @@ dixit:
   price: null
   retail: null
 drone:
-  name: drone
-  desc: null
-  price: null
-  retail: null
+  name: Drone DJI Tello
+  desc: >
+    The drone has damage in two spots fixed with a pink duct tape (see the photo).
+    Other than that, in good condition. Includes 3 batteries and a charging station.
+    One of the few drones that can be programmed, so can be fun for STEM.
+  price: 90
+  retail: 184
 dutch-book:
   name: dutch book
   desc: null
@@ -119,20 +122,22 @@ incenses:
   price: null
   retail: null
 keyboard:
-  name: keyboard
+  name: Keyboard A4TECH KV-300H
   desc: null
-  price: null
-  retail: null
+  price: 30
+  retail: 42
 laptop:
   name: laptop
   desc: null
   price: null
   retail: null
 laser-cutter:
-  name: laser cutter
-  desc: null
-  price: null
-  retail: null
+  name: Laser cutter Sculpfun S9
+  desc: >
+    Great condition, 600W power. Cuts plywood, acril, paper,
+    can engrave on leather, aluminium, paper, maybe even glass.
+  price: 110
+  retail: 145.30
 leds:
   name: leds
   desc: null
@@ -144,20 +149,22 @@ lock:
   price: null
   retail: null
 logitech-ble-keyboard:
-  name: logitech ble keyboard
+  name: Keyboard Logitech K380
   desc: null
-  price: null
-  retail: null
+  price: 25
+  retail: 35
 logitech-keyboard:
   name: Keyboard Logitech MX Keys
-  desc: null
+  desc: >
+    The legendary keyboard. Silent, reliable, heavy. Can be used over bluetooth,
+    over USB dongle, or over USB cable. Comes with the original packaging.
   price: 80
   retail: 100
 logitech-mouse:
-  name: logitech mouse
+  name: Mouse Logitech MX Master 3S
   desc: null
-  price: null
-  retail: null
+  price: 80
+  retail: 100
 longboard:
   name: longboard
   desc: null
@@ -169,10 +176,10 @@ micro-usb-wires:
   price: null
   retail: null
 mic:
-  name: mic
+  name: Microphone HyperX Quadcast
   desc: null
-  price: null
-  retail: null
+  price: 75
+  retail: 93
 mouse:
   name: mouse
   desc: null
@@ -194,10 +201,10 @@ orange-pi:
   price: null
   retail: null
 otamatone:
-  name: otamatone
+  name: Otamatone
   desc: null
-  price: null
-  retail: null
+  price: 80
+  retail: 97.69
 pens:
   name: pens
   desc: null
@@ -229,9 +236,9 @@ power-switch:
   price: null
   retail: null
 practice-locks:
-  name: practice locks
+  name: Practice locks set Unlock Curious by Curious Smith
   desc: null
-  price: null
+  price: 40
   retail: null
 practice-lock:
   name: practice lock
@@ -254,10 +261,10 @@ rotary-pick:
   price: null
   retail: null
 rpi0:
-  name: rpi0
+  name: Raspberry Pi Zero 2
   desc: null
-  price: null
-  retail: null
+  price: 10
+  retail: 16.93
 soldering-kit:
   name: soldering kit
   desc: null
@@ -279,10 +286,10 @@ tent:
   price: null
   retail: null
 toaster:
-  name: toaster
+  name: Toaster Philips Daily HD2581/00
   desc: null
-  price: null
-  retail: null
+  price: 15
+  retail: 28.99
 watches:
   name: watches
   desc: null
@@ -294,7 +301,7 @@ webcam:
   price: null
   retail: null
 wifi-dongle:
-  name: wifi dongle
+  name: WiFi dongle AC-1200 Mbps
   desc: null
-  price: null
-  retail: null
+  price: 20
+  retail: 35
