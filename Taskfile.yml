@@ -1,0 +1,23 @@
+# https://taskfile.dev
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  export:
+    sources:
+      - raw-photos/*.jpg
+    cmds:
+      - rm -rf photos
+      - mkdir photos
+      - for: sources
+        cmd: >
+          echo "exporting {{.ITEM}}..." &&
+          cwebp -q 60 -resize 1000 0
+          -o photos/$(basename --suffix=.jpg {{.ITEM}}).webp
+          {{.ITEM}}
+
+  default:
+    cmds:
+      - task: export
