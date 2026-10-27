@@ -1,8 +1,8 @@
 arduino:
   name: Arduino RP2040
   desc: null
-  price: null
-  retail: null
+  price: 15
+  retail: 24
 art-of-war:
   name: The Art of War (RU)
   desc: null
@@ -82,10 +82,10 @@ earrings-kit:
   price: null
   retail: null
 flask:
-  name: flask
-  desc: null
-  price: null
-  retail: null
+  name: Flask Quenchua
+  desc: Orang 1L flask from Decathlon, used once.
+  price: 5
+  retail: 10
 game-consoles:
   name: game consoles
   desc: null
@@ -166,10 +166,10 @@ logitech-mouse:
   price: 80
   retail: 100
 longboard:
-  name: longboard
-  desc: null
-  price: null
-  retail: null
+  name: Longboard Apollo Hawaiian Wulff
+  desc: The front screws are rusty but easy to replace.
+  price: 40
+  retail: 80
 micro-usb-wires:
   name: micro usb wires
   desc: null
@@ -266,9 +266,9 @@ rpi0:
   price: 10
   retail: 16.93
 soldering-kit:
-  name: soldering kit
+  name: Soldering kit 60W
   desc: null
-  price: null
+  price: 10
   retail: null
 sound-card:
   name: sound card
@@ -281,10 +281,10 @@ tarot:
   price: null
   retail: null
 tent:
-  name: tent
-  desc: null
-  price: null
-  retail: null
+  name: Tent Simond MT900
+  desc: 1-person tent from Decathlon. Used once. In perfect condition, maybe with a bit of a dry dirt inside.
+  price: 110
+  retail: 152
 toaster:
   name: Toaster Philips Daily HD2581/00
   desc: null
@@ -296,10 +296,10 @@ watches:
   price: null
   retail: null
 webcam:
-  name: webcam
+  name: Webcam Natec Lori
   desc: null
-  price: null
-  retail: null
+  price: 20
+  retail: 35
 wifi-dongle:
   name: WiFi dongle AC-1200 Mbps
   desc: null
