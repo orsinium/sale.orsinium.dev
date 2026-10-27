@@ -5,48 +5,48 @@ arduino:
   retail: 24
 art-of-war:
   name: The Art of War (RU)
-  desc: null
+  desc: A Russian comics version of "The Art of War".
   price: null
   retail: null
 belt-holer:
-  name: belt holer
-  desc: null
-  price: null
-  retail: null
+  name: Hole puncher
+  desc: A handy device for making holes of different sizes in a belt.
+  price: 3
+  retail: 6
 bike-light:
-  name: bike light
+  name: Bike light
   desc: null
   price: null
   retail: null
 bouncy-balls:
-  name: bouncy balls
+  name: Bouncy balls
   desc: null
   price: null
   retail: null
 box-for-cards:
-  name: box for cards
-  desc: null
+  name: Box for cards
+  desc: Custom-made (with laser cutter) wooden storage box for playing cards with adjustable sections.
   price: null
   retail: null
 button:
-  name: button
-  desc: null
+  name: Button
+  desc: Good for DIY devices (Arduino-based or similar).
   price: null
   retail: null
 card-protectors:
-  name: card protectors
-  desc: null
-  price: null
+  name: Card protectors
+  desc: 222 protectors, 60x90mm, transparent.
+  price: 4
   retail: null
 clapper:
-  name: clapper
+  name: Clapperboard
   desc: null
-  price: null
+  price: 4
   retail: null
 corgi-book:
-  name: corgi book
-  desc: null
-  price: null
+  name: Корги по имени Генри
+  desc: Russian translation of "Henry the Queens Corgi" by Georgie Crawley.
+  price: 5
   retail: null
 corner-rounder:
   name: corner rounder
@@ -72,10 +72,10 @@ drone:
   price: 90
   retail: 184
 dutch-book:
-  name: dutch book
-  desc: null
-  price: null
-  retail: null
+  name: De jongen, de mol, de vos en het paard (Dutch)
+  desc: The Dutch translation of "The Boy, the Mole, the Fox and the Horse". Perfect condition.
+  price: 20
+  retail: 27
 earrings-kit:
   name: earrings kit
   desc: null
@@ -193,12 +193,12 @@ multikit:
 multimeter:
   name: multimeter
   desc: null
-  price: null
-  retail: null
+  price: 15
+  retail: 20
 orange-pi:
-  name: orange pi
-  desc: null
-  price: null
+  name: Orange Pi
+  desc: A chaper clone of Raspberry Pi. A proper Linux mini-PC with microUSB, HDMI, GPIO, and WiFi.
+  price: 20
   retail: null
 otamatone:
   name: Otamatone
@@ -215,11 +215,11 @@ pin-parts:
   desc: null
   price: null
   retail: null
-pocket-picks:
-  name: pocket picks
-  desc: null
-  price: null
-  retail: null
+# pocket-picks:
+#   name: pocket picks
+#   desc: null
+#   price: null
+#   retail: null
 pocket-saw:
   name: pocket saw
   desc: null
@@ -271,10 +271,10 @@ soldering-kit:
   price: 10
   retail: null
 sound-card:
-  name: sound card
+  name: External USB 7.1 Sound Card
   desc: null
-  price: null
-  retail: null
+  price: 25
+  retail: 30
 tarot:
   name: tarot
   desc: null
