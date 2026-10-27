@@ -1,3 +1,13 @@
+pc:
+  name: PC Acer Aspire TC-1660
+  desc: Intel Core i7-11700 2.5 GHz, SSD, 16 GB RAM. In perfect condition, with protective film, in original box. Comes with Ubuntu Linux preinstalled but can run any Windows.
+  price: 800
+  retail: 950
+monitor:
+  name: Monitor AOC AG241QX
+  desc: Ultra-fast TN panel, 1ms response time, 2560x1440-pixel resolution, 144 Hz. In perfect condition, in original box.
+  price: 300
+  retail: 400
 arduino:
   name: Arduino RP2040
   desc: null
