@@ -6,7 +6,7 @@ arduino:
 art-of-war:
   name: The Art of War (RU)
   desc: A Russian comics version of "The Art of War".
-  price: null
+  price: 5
   retail: null
 belt-holer:
   name: Hole puncher
@@ -16,22 +16,22 @@ belt-holer:
 bike-light:
   name: Bike light
   desc: null
-  price: null
-  retail: null
+  price: 2
+  retail: 8
 bouncy-balls:
   name: Bouncy balls
   desc: null
-  price: null
+  price: 2
   retail: null
 box-for-cards:
   name: Box for cards
   desc: Custom-made (with laser cutter) wooden storage box for playing cards with adjustable sections.
-  price: null
+  price: 20
   retail: null
 button:
   name: Button
   desc: Good for DIY devices (Arduino-based or similar).
-  price: null
+  price: 1
   retail: null
 card-protectors:
   name: Card protectors
@@ -49,19 +49,19 @@ corgi-book:
   price: 5
   retail: null
 corner-rounder:
-  name: corner rounder
+  name: Corner rounder
   desc: null
-  price: null
+  price: 3
   retail: null
 display:
-  name: display
-  desc: null
-  price: null
+  name: Display
+  desc: For DIY devices
+  price: 3
   retail: null
 dixit:
-  name: dixit
+  name: Board game Dixit
   desc: null
-  price: null
+  price: 5
   retail: null
 drone:
   name: Drone DJI Tello
@@ -77,49 +77,49 @@ dutch-book:
   price: 20
   retail: 27
 earrings-kit:
-  name: earrings kit
-  desc: null
-  price: null
+  name: Earrings kit
+  desc: Components for making your own earrings (the hook part).
+  price: 5
   retail: null
 flask:
   name: Flask Quenchua
-  desc: Orang 1L flask from Decathlon, used once.
+  desc: Orange 1L flask from Decathlon, used once.
   price: 5
   retail: 10
 game-consoles:
-  name: game consoles
-  desc: null
-  price: null
+  name: Game consoles
+  desc: Game consoles from Hema.
+  price: 10
   retail: null
 game-tokens:
-  name: game tokens
+  name: Game tokens
   desc: null
-  price: null
+  price: 1
   retail: null
 glasses:
-  name: glasses
-  desc: null
-  price: null
+  name: Biking glasses
+  desc: With inserts of different reflection level and color.
+  price: 20
   retail: null
 hammer:
-  name: hammer
+  name: Hammer 1250g
   desc: null
-  price: null
-  retail: null
+  price: 20
+  retail: 30
 harmonica:
-  name: harmonica
+  name: Harmonica
   desc: null
-  price: null
+  price: 10
   retail: null
 hena:
-  name: hena
-  desc: null
-  price: null
+  name: Henna kit
+  desc: 10 colors, with stencils.
+  price: 6
   retail: null
 incenses:
-  name: incenses
+  name: Incenses
   desc: null
-  price: null
+  price: 3
   retail: null
 keyboard:
   name: Keyboard A4TECH KV-300H
@@ -127,9 +127,9 @@ keyboard:
   price: 30
   retail: 42
 laptop:
-  name: laptop
-  desc: null
-  price: null
+  name: Laptop ASUS X540L
+  desc: 4GB RAM laptop, perfectly working. Good for retro gaming, office work, etc. Can run Windows 10 and earlier, Linux. Comes with Ubuntu Linux preinstalled.
+  price: 100
   retail: null
 laser-cutter:
   name: Laser cutter Sculpfun S9
@@ -139,14 +139,14 @@ laser-cutter:
   price: 110
   retail: 145.30
 leds:
-  name: leds
+  name: LEDs
   desc: null
-  price: null
+  price: 2
   retail: null
 lock:
-  name: lock
+  name: Lock
   desc: null
-  price: null
+  price: 5
   retail: null
 logitech-ble-keyboard:
   name: Keyboard Logitech K380
@@ -171,9 +171,9 @@ longboard:
   price: 40
   retail: 80
 micro-usb-wires:
-  name: micro usb wires
+  name: microUSB wires
   desc: null
-  price: null
+  price: 5
   retail: null
 mic:
   name: Microphone HyperX Quadcast
@@ -181,14 +181,14 @@ mic:
   price: 75
   retail: 93
 mouse:
-  name: mouse
+  name: Laser mouse
   desc: null
-  price: null
+  price: 10
   retail: null
 multikit:
   name: multikit
   desc: null
-  price: null
+  price: 5
   retail: null
 multimeter:
   name: multimeter
@@ -206,14 +206,14 @@ otamatone:
   price: 80
   retail: 97.69
 pens:
-  name: pens
-  desc: null
-  price: null
+  name: Blue pens
+  desc: 22 blue pens.
+  price: 3
   retail: null
 pin-parts:
   name: pin parts
   desc: null
-  price: null
+  price: 2
   retail: null
 # pocket-picks:
 #   name: pocket picks
@@ -221,19 +221,19 @@ pin-parts:
 #   price: null
 #   retail: null
 pocket-saw:
-  name: pocket saw
+  name: Pocket saw
   desc: null
-  price: null
+  price: 2
   retail: null
 power-bank:
-  name: power bank
-  desc: null
-  price: null
+  name: Power bank
+  desc: Power bank with flashlight and hand warmer.
+  price: 10
   retail: null
 power-switch:
-  name: power switch
+  name: Power switch
   desc: null
-  price: null
+  price: 5
   retail: null
 practice-locks:
   name: Practice locks set Unlock Curious by Curious Smith
@@ -241,24 +241,24 @@ practice-locks:
   price: 40
   retail: null
 practice-lock:
-  name: practice lock
-  desc: null
-  price: null
+  name: Practice lock
+  desc: Transparent lock for learning lockpicking.
+  price: 5
   retail: null
 puzzle:
   name: puzzle
   desc: null
-  price: null
+  price: 2
   retail: null
 resistors:
   name: resistors
   desc: null
-  price: null
+  price: 1
   retail: null
 rotary-pick:
-  name: rotary pick
+  name: Rotary lock pick
   desc: null
-  price: null
+  price: 5
   retail: null
 rpi0:
   name: Raspberry Pi Zero 2
@@ -276,9 +276,9 @@ sound-card:
   price: 25
   retail: 30
 tarot:
-  name: tarot
+  name: Tarot cards
   desc: null
-  price: null
+  price: 4
   retail: null
 tent:
   name: Tent Simond MT900
@@ -291,9 +291,9 @@ toaster:
   price: 15
   retail: 28.99
 watches:
-  name: watches
+  name: Watches
   desc: null
-  price: null
+  price: 20
   retail: null
 webcam:
   name: Webcam Natec Lori
